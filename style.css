@@ -1,0 +1,48 @@
+body{
+ background-color: hsl(30, 54%, 90%);
+ word-spacing: 5%;
+}
+ .container-fluid {
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color: white;
+        height: 260vh;
+        width: 460px;
+        border: 0.5px solid black;
+        margin-left: 33%;
+        background-color: white;
+        border: none;
+        border-radius: 5px;
+        padding: 10px;
+ }
+ .image{
+  
+  padding-left: 20px;
+  padding-top: 10;
+ }
+    
+
+
+.section1{background-color:  hsl(333, 87%, 94%); 
+}
+
+table{
+       color: hsl(24, 5%, 16%);
+       width: 100%;
+       border-collapse: collapse;
+
+}
+.tab-left{
+      color: hsl(14, 45%, 36%);               
+}
+
+tr{
+       height: 50px;
+       border-bottom: 0.5px solid hsl(15, 5%, 33%);
+       
+
+}
+
+       
+
